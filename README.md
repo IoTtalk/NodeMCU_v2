@@ -54,7 +54,7 @@ Upload Speed|115200
 * [ArduinoJson v5.13.1](https://arduinojson.org/?utm_source=meta&utm_medium=library.properties)
 
 
-## Set Library Parameter
+## Set Library Parameter(optional, if use Ethernet)
 ```
 [UIPEthernet/utility/uipethernet-conf.h]
     #define UIP_SOCKET_NUMPACKETS    2
